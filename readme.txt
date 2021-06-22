@@ -1,5 +1,6 @@
 This repo is the sourse code of my undergraduate graduation design.
 It design a lightweight neural network MobileNet v1.
+
 Main work:
 1.It uses Pytorch to build the structure of the MobileNet network and write training scripts for training
 2.It tries to use the linear quantization method to modify the network code and derive the compressed network weight. 
