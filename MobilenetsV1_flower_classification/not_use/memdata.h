@@ -1,0 +1,19 @@
+#ifndef PARAMS_HPP
+#define PARAMS_HPP
+namespace PARAM{ 
+static BinaryWeights<2,1,9> weights= {
+{
+{ 
+0x0,
+0x0,
+0x2,
+0x1,
+0x2,
+0x1,
+0x1,
+0x1,
+0x1} 
+}
+};
+ } 
+#endif 
